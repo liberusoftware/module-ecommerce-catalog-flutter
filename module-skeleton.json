@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-flutter",
+  "capabilityKey": "planned:ecommerce:catalog",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_catalog_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog.md",
+  "presentationPlan": "projects/ecommerce/flutter/catalog.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
